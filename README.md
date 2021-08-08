@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Obed Raúl García Molina</h1>
-<h3 align="center">A passionate IT student</h3>
+<h1 align="center">Hi 👋, I'm Obed Raúl García Molina 🍑</h1>
+<h3 align="center">A passionate IT student 🖥</h3>
 
 - 🌱 I’m currently learning **React, React-Native, Django, MongoDB, etc.**
 
